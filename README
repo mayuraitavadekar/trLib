@@ -1,0 +1,7 @@
+            ======================================================
+            trLib: minimal static html template rendering library
+            ======================================================
+
+
+
+trLib is minimal dynamic html template rendering library that renders static html files. It is built on top of node.js.
